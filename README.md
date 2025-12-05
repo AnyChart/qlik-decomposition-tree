@@ -15,19 +15,19 @@ The **Decomposition Tree** extension by **AnyChart** brings decomposition trees 
 [![Demonstration of the decomposition tree with AI splits in Qlik Sense](https://qlik.anychart.com/news/content/images/2024/11/ai-splits-feature.gif)](https://qlik.anychart.com/download)
 
 ## Key features
-- The only way to add Decomposition Trees to Qlik Sense apps  ￼
-- Break down a measure across multiple dimensions in a clear, incremental tree view  ￼
-- Flexible drill-down: explore dimensions in any order, or enforce a fixed drill path when needed  ￼
-- [AI Splits](https://qlik.anychart.com/news/ai-splits-qlik-sense/): automatically identifies the highest or lowest impact factors across dimensions  ￼
-- Secondary measure support, plus contribution and variance analysis options  ￼
-- Works with negative values for mixed-sign metrics  ￼
-- Comparison controls: bar scaling modes (within a level, vs parent, or vs total)  ￼
+- The only way to add Decomposition Trees to Qlik Sense apps
+- Break down a measure across multiple dimensions in a clear, incremental tree view
+- Flexible drill-down: explore dimensions in any order, or enforce a fixed drill path when needed
+- [AI Splits](https://qlik.anychart.com/news/ai-splits-qlik-sense/): automatically identifies the highest or lowest impact factors across dimensions
+- Secondary measure support, plus contribution and variance analysis options
+- Works with negative values for mixed-sign metrics
+- Comparison controls: bar scaling modes (within a level, vs parent, or vs total)
 - Usability for large trees: view modes (compact/normal/wide), breadcrumbs, tooltips, selections, zooming/paging, and level limits
 
 ## When to use
 - Driver analysis and root cause investigations
 - Ad hoc exploration across multiple dimensions
-- Variance and contribution breakdowns for KPI changes￼
+- Variance and contribution breakdowns for KPI changes
 
 ## Download
 ➡️ [**Get the extension**](https://qlik.anychart.com/download)
